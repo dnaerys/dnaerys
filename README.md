@@ -14,4 +14,4 @@ to store genetic variations and execute algorithms from the field of genetics.
 #### Installation
 
 - CLI ctl tool: [releases](https://github.com/dnaerys/dnaerys/releases)
-- Cluster: `docker pull dnaerys/dnaerys`
+- Cluster: `docker pull dnaerys/dnaerys-k8s:latest`
