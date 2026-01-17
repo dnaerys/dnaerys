@@ -1,0 +1,74 @@
+SOFTWARE LICENCE AGREEMENT
+
+This software licence agreement (“Agreement”) is entered into between:
+Licensor: Dnaerys Pty Ltd, Australia
+and
+Licensee: user or operator of this Software
+
+    1. Interpretation
+
+a) The words of which the initial letter is capitalized have meanings defined under this clause; b) Unless the context otherwise requires, words in the singular include the plural and in the plural include the singular; c) Any words following the terms “including”, “include”, “in particular” or any similar expression shall be construed as illustrative and shall not limit the sense of the words preceding those terms.
+
+For the purposes of this Licence Agreement:
+“Agreement” means this software licence agreement
+“Software” means “Dnaerys” – distributed variant store software developed by the Licensor, or any of its components
+“Licensor” means Dnaerys Pty Ltd, Australia
+“Licensee” means user and/or operator of this Software
+“Party” means either Licensor or Licensee individually
+“Parties” means Licensor and Licensee together
+
+    2. Background
+
+The Licensor is the owner of the rights, title, interest and goodwill in the Software. The Licensor is willing to grant to the Licensee a licence to use the Software on the terms and conditions set out in this Agreement.
+
+    3. Scope of Licence
+
+The Licensor grants to the Licensee a non-exclusive, non-transferable, non-assignable, revocable, royalty-free, limited licence to download, install and use the Software for commercial and non-commercial purposes. The Licence to use Software is limited to process and store data sets with less than 201 samples.
+
+Licensee shall not, directly or indirectly: a) sell, rent, sub-licence, distribute or lease the Software or use the Software on behalf of any third party; b) reverse engineer, disassemble, decompile, make any attempt to discover the source code, ideas or algorithms of the Software or make any alterations to Software; c) remove, alter or obscure any proprietary notice (including any copyright or trademark notice) from the Software; d) violate any applicable laws, rules or regulations in connection with access or use of the Software.
+
+The Licensee shall at all times comply with the terms of this Agreement. All rights not expressly granted by the Licensor in this Agreement are reserved by the Licensor.
+
+    4. Warranty, Liability and Indemnity
+
+The Software is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, satisfactory quality, fitness for a particular purpose and noninfringement. In no event shall the Licensor be liable for any claim, damages or other liability, whether in an action of contract, tort or otherwise, arising from, out of or in connection with the Software or the use or other dealings in the Software.
+
+The Licensee hereby indemnifies the Licensor and will keep the Licensor fully indemnified at all times from and against all actions, proceedings, claims, demands, costs, awards and damages however arising or paid by or awarded against the Licensor in respect of any breach or non-performance by the Licensee of its covenants, undertakings, representations, warranties or obligations contained in this Agreement.
+
+    5. Infringement acknowledgement
+
+The Licensee agrees that, in the event of a third party claim that the Software or the Licensee's possession or use of the Software infringes any third party's intellectual properties rights, the Licensee (and not the Licensor) will be responsible for the investigation, defense, settlement and discharge of any such claim of intellectual property infringement. The Licensee will, however, promptly notify the Licensor in writing of such a claim.
+
+    6. Assignment and other dealings
+
+The Licensor may at any time assign, transfer, delegate or deal in any other manner with any or all of its rights or obligations under this Agreement.
+
+    7. Termination
+
+This Agreement shall remain in effect until terminated by the Licensee or the Licensor. The Licensor may, in its sole discretion, at any time and for any or no reason, suspend or terminate this Agreement with or without prior notice. In the event that the Licensee fails to comply with any provision of this Agreement, this Agreement will terminate immediately, without prior notice from the Licensor. The Licensee may terminate this Agreement by deleting all possessed copies of the Software. Upon termination of this Agreement, the Licensee shall cease all use of the Software and delete all possessed copies of the Software.
+
+Termination of this Agreement will not limit any of the Licensor's rights or remedies at law or in equity in case of breach by the Licensee (during the term of this Agreement) of any of the Licensee's obligations under the present Agreement.
+
+    8. Waiver
+
+Except as provided herein, the failure to exercise a right or to require performance of an obligation under this Agreement shall not affect a party's ability to exercise such right or require such performance at any time thereafter nor shall the waiver of a breach constitute a waiver of any subsequent breach.
+
+    9. Entire agreement
+
+This Agreement constitutes the whole agreement between the Parties.
+
+    10. Third Party Software
+
+Individual software components ("Third Party Software") may be distributed, embedded, or bundled with the Software. Such Third Party Software has its own copyright and applicable licence conditions.
+
+    11. Severability
+
+If any provision of this Agreement is held to be unenforceable, illegal or invalid, such provision will be changed and interpreted to accomplish the objectives of such provision to the greatest extent possible under applicable law and the validity and enforceability of the other provisions of this Agreement shall not be affected.
+
+    12. No partnership or agency
+
+Nothing in this Agreement is intended to, or shall be deemed to, establish any partnership or joint venture between the Parties, constitute either Party the agent of the other, or authorise either Party to make or enter into any commitments for or on behalf of the other Party.
+
+    13. Governing law and jurisdiction
+
+This Agreement shall be interpreted under and governed by the laws of the state of New South Wales, Australia and the Parties hereby submit to the exclusive jurisdiction of the New South Wales courts.
