@@ -10,8 +10,13 @@ designed to store genetic variations and execute genomic algorithms at scale.
 Documentation: [dnaerys.org](https://dnaerys.org/) <br>
 License: [EULA](https://github.com/dnaerys/dnaerys/blob/master/EULA) <br>
 Installation: <br>
-- CLI ctl tool: [releases](https://github.com/dnaerys/dnaerys/releases)
-- Cluster: `docker pull dnaerys/dnaerys-k8s:latest`
+
+- _Full info_: [installation](https://dnaerys.org/#installation/)
+- _The Control Tool_: fetch the **[latest release](https://github.com/dnaerys/dnaerys/releases)** to get started
+- _Cluster Deployment_:
+    * **Container Images:** `docker pull dnaerys/dnaerys-cluster:latest`
+    * **Helm:** **[Helm chart example](https://github.com/dnaerys/dnaerys-deployment/tree/master/kubernetes/helm/datasetname)**
+    * **Docker Compose:** **[docker-compose.yml](https://github.com/dnaerys/dnaerys-deployment/blob/master/docker-compose/docker-compose.yml)**
 
 ---
 
